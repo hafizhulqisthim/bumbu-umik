@@ -20,7 +20,7 @@ Landing Page Bumbu Umik adalah sebuah website yang berisi informasi mengenai pro
 git clone https://github.com/username/msibminiprojects.git
 ```
 
-#### **Langkah 2:** Menetapkan Remote Upstream
+#### **Langkah 2:** Buka folder Projects
 
 ```bash
 cd nama-folder
