@@ -9,6 +9,7 @@ $(document).ready(function () {
   $("#produk-unggulan").load("partials/contents/produk-unggulan.html");
   $("#tentang-kami").load("partials/contents/tentang-kami.html");
   $("#testimonial").load("partials/contents/testimonial.html");
+  $("#kontak").load("partials/contents/form-kontak.html");
 });
 
 // AOS Initialization
