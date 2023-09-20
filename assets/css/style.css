@@ -7,14 +7,32 @@
 
 /* All your own custom css here.. */
 #header {
-  background-color: #333;
+  background-color: #fff;
   color: #fff;
-  padding: 20px;
+  padding: 10px;
 }
 
-#main {
-  padding: 20px;
+#daftar-produk {
+  padding: 40px;
   background-color: brown;
+  color: #fff;
+}
+
+#produk-unggulan {
+  padding: 40px;
+  background-color: #618264;
+  color: #fff;
+}
+
+#tentang-kami {
+  padding: 40px;
+  background-color: #F4E869;
+  color: #000;
+}
+
+#testimonial {
+  padding: 40px;
+  background-color: #7D7C7C;
   color: #fff;
 }
 
