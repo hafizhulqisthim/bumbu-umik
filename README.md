@@ -70,3 +70,9 @@ git pull origin main
 ---
 - Jika ada perubahan pada repository utama, maka lakukan langkah 7 untuk mengambil perubahan tersebut.
 - Jika ada konflik pada langkah 7, maka selesaikan konflik (Diskusikan di Grup)
+
+Iya sama-sama, bisa dilihat-lihat dulu itu struktur project nya.
+Hasil akhirnya adalah satu halaman situs web yang disebut Satu Halaman Landing Page. Namun, jika hanya satu berkas HTML yang dikerjakan oleh lima orang, itu pasti akan membingungkan. Akhirnya, saya menggunakan Konsep Modularisasi, yang berarti memisahkan setiap bagian ke dalam beberapa berkas terpisah. (Berkas Bagian ini ditempatkan di dalam Folder Partials.) 
+Di dalam folder partials itulah setiap orang akan membuat tampilan sesuai dengan tugas masing-masing.
+
+Lalu, bagaimana dengan berkas index.html-nya? Berkas tersebut tidak perlu diubah karena itu merupakan dasar dari semua bagian. Jadi, kalian hanya perlu fokus pada masing-masing bagian saja
