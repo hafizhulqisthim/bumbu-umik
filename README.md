@@ -17,7 +17,7 @@ Landing Page Bumbu Umik adalah sebuah website yang berisi informasi mengenai pro
 #### **Langkah 1:** Clone Repository ke Komputer Lokal
 
 ```bash
-git clone https://github.com/username/msibminiprojects.git
+git clone https://github.com/andikatuluspangestu/bumbu-umik.git
 ```
 
 #### **Langkah 2:** Buka folder Projects
