@@ -33,7 +33,17 @@ git clone url-hasil-fork
 cd nama-folder
 ```
 
-#### **Langkah 4:** Membuat Perubahan dan Mengunggah Perubahan
+#### **Langkah 4:** Membuat Upstream Repository
+
+```bash
+git remote add upstream https://github.com/andikatuluspangestu/bumbu-umik.git
+```
+
+```bash
+git branch --set-upstream-to=upstream/main main
+```
+
+#### **Langkah 5:** Membuat Perubahan dan Mengunggah Perubahan
 
 1. Lakukan perubahan pada proyek menggunakan Visual Studio Code  
 2. Setelah selesai maka simpan  atau tekan ```CTRL + S```  
@@ -61,13 +71,13 @@ cd nama-folder
     git push origin main
     ```
 
-#### **Langkah 5:** Membuat Pull Request
+#### **Langkah 6:** Membuat Pull Request
 1. Buka Repository Utama di GitHub
 2. Klik tombol "Compare & pull request".
 3. Pastikan Anda memilih branch yang telah dibuat.
 4. Berikan judul dan deskripsi yang baik untuk pull request Anda.
 
-#### **Langkah 6:** Sinkronkan dengan Repository Utama
+#### **Langkah 7:** Sinkronkan dengan Repository Utama
 
 ```bash
 git pull origin main
